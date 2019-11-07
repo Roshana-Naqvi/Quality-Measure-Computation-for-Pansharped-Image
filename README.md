@@ -1,4 +1,4 @@
-# Quality-Measure-Computataion-for-Pansharped-Image
+# Quality-Measure-Computation-for-Pansharped-Image
 This code actually depicts the computation of quality metrics using the python built-in package sewar 0.4.2.
 
 # For installation run the following command:
